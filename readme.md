@@ -1,5 +1,7 @@
-Collaboration and contribution to the FinOps Foundation
+## Collaborate with and contribute to the FinOps Foundation
 ---
+
+![Collaborate and contribute as an Ambassador or Community member to F2](/img/finops-foundation.png)
 
 _We're looking for candidates to become Ambassadors and Community Contributors_.
 
